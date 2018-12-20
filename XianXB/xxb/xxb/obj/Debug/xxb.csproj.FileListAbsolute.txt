@@ -1,0 +1,7 @@
+E:\code\XianXB\xxb\xxb\bin\Debug\xxb.exe.config
+E:\code\XianXB\xxb\xxb\bin\Debug\xxb.exe
+E:\code\XianXB\xxb\xxb\bin\Debug\xxb.pdb
+E:\code\XianXB\xxb\xxb\obj\Debug\xxb.csprojAssemblyReference.cache
+E:\code\XianXB\xxb\xxb\obj\Debug\xxb.csproj.CoreCompileInputs.cache
+E:\code\XianXB\xxb\xxb\obj\Debug\xxb.exe
+E:\code\XianXB\xxb\xxb\obj\Debug\xxb.pdb
